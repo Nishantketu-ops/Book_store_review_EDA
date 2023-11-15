@@ -8,7 +8,7 @@ This repository contains the code and documentation for an Exploratory Data Anal
 
 - **Source**: [Please find the data file uploaded]
 - **Format**: [csv]
-- 
+
 
 ## Prerequisites
 
